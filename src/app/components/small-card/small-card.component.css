@@ -1,0 +1,14 @@
+.smallcard{   
+    display: flex;    
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid white;
+}
+img{
+    width: 200px;
+    min-width: 200px;
+    margin-right: 20px;
+    
+}
